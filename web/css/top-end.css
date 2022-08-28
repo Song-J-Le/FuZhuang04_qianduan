@@ -1,0 +1,217 @@
+.single-over{
+    /*超过：隐藏*/
+    overflow: hidden;
+    /*不换行*/
+    white-space: nowrap;
+    /*超出以...表示*/
+    text-overflow: ellipsis;
+}
+
+
+.top {
+    background-image: url("../img/banner.jpg");
+    width: 1500px;
+    height: 547px;
+    margin-top: -170px;
+}
+
+.text1 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.text2 {
+    color: black;
+    font-size: 30px;
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    z-index: 1;
+}
+
+.text3 {
+    color: darkgrey;
+    border: 1px solid white;
+    font-family: 宋体;
+    font-size: 30px;
+    text-align: center;
+    width: 500px;
+    height: 75px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.text {
+    width: 500px;
+    margin-top: 175px;
+    margin-left: 850px;
+    position: relative;
+    top: 200px;
+}
+
+.body {
+    color: white;
+}
+
+.daohang > div {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center; /*居中对齐*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-style: dashed;
+    border-color: #2F2D32FF white #2F2D32FF white;
+    font-family: 楷体;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.daohang > div:hover {
+    background-color: white;
+    /*设置字体颜色*/
+    color: rgb(230, 145, 55);
+}
+
+.daohang > div:nth-child(1) {
+    border-style: dashed;
+    border-color: #2F2D32FF #2F2D32FF #2F2D32FF #2F2D32FF;
+    font-family: 楷体;
+    font-size: 30px;
+}
+
+
+.daohang > div:nth-child(2) {
+    border-style: dashed;
+    border-color: #2F2D32FF #2F2D32FF #2F2D32FF #2F2D32FF;
+    font-family: 楷体;
+    font-size: 30px;
+}
+
+.daohang > div:nth-child(4) {
+    border-style: dashed;
+    border-color: #2F2D32FF #2F2D32FF #2F2D32FF #2F2D32FF;
+    font-family: 楷体;
+    font-size: 30px;
+}
+
+.daohang > div:nth-child(6) {
+    border-style: dashed;
+    border-color: #2F2D32FF #2F2D32FF #2F2D32FF #2F2D32FF;
+    font-family: 楷体;
+    font-size: 30px;
+}
+
+.daohang {
+    background-color: rgb(47, 45, 50);
+    display: flex;
+    justify-content: center; /*居中对齐*/
+    width: 1500px;
+    height: 56px;
+}
+
+/*--------------------首页内容------------------------*/
+.neirong {
+    width: 1500px;
+}
+
+.neirong > div {
+    color: black;
+}
+
+.hand-1 > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+
+}
+
+.hand-1 > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+
+}
+
+.hand-bd {
+    height: 80px;
+    width: 350px;
+    background-color: #ececec;
+    margin-left: 600px;
+    margin-top: 0;
+}
+
+.hand-1 {
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 350px;
+    margin-left: 600px;
+    margin-top: 0px;
+    font-size: 20px;
+    z-index: 1;
+    position: relative;
+    right: 15px;
+    top: 100px;
+}
+
+
+/*--------------------------end-------------------------------*/
+.end {
+    background-color: #2F2D32FF;
+    width: 1500px;
+    height: 275px;
+}
+
+.end > div:nth-child(1) {
+    display: flex;
+    justify-content: center; /*居中对齐*/
+    font-family: 楷体;
+    font-size: 50px;
+    width: 1500px;
+    height: 50px;
+}
+
+.end > div:nth-child(2) > div {
+    display: flex;
+}
+
+.end > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) {
+    margin-left: 48px;
+    margin-right: 20px;
+}
+
+.end > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+    margin-left: 36px;
+    margin-right: 20px;
+}
+
+.end > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.end > div:nth-child(2) {
+    width: 800px;
+    position: relative;
+    top: 40px;
+    left: 250px;
+}
+
+.end > div:nth-child(3) {
+    width: 400px;
+    position: relative;
+    top: -30px;
+    left: 850px;
+    display: flex;
+}
+
+.end > div:nth-child(3) > div:nth-child(1) {
+    position: relative;
+    top: 15px;
+    left: -30px;
+}
+
+.end > div:nth-child(3) > div:nth-child(2) {
+    position: relative;
+    top: 15px;
+}

@@ -1,0 +1,322 @@
+.works {
+    width: 1500px;
+    background-image: url("../img/bg3.jpg");
+    margin-top: 30px;
+    color: white;
+}
+
+.works > div:nth-child(1) {
+    border: white 2px solid;
+    border-bottom-color: #dc1c4d;
+    width: 150px;
+    font-size: 30px;
+    margin-left: 250px;
+}
+
+.works > div:nth-child(1) {
+    color: black;
+}
+
+.works-1 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-1 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-1 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-1 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-1 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+.works > div:nth-child(2) > div:nth-child(2) {
+    position: relative;
+    top: -50px;
+    left: 100px;
+}
+
+/*---------------works-2---------------*/
+
+.works-2 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-2 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-2 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-2 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-2 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+.works > div:nth-child(2) > div:nth-child(4) {
+    position: relative;
+    top: -50px;
+    left: 0px;
+}
+
+.works-3 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-3 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-3 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-3 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-3 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+.no-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.works-2 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/*-------------第二层--------------*/
+.works-4 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-4 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-4 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-4 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-4 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+/*.works>div:nth-child(2)>div:nth-child(2){*/
+/*    position: relative;*/
+/*    top: -50px;*/
+/*    left: 100px;*/
+/*}*/
+
+/*---------------works-5---------------*/
+
+.works-5 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-5 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-5 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-5 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-5 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+/*.works>div:nth-child(2)>div:nth-child(4){*/
+/*    position: relative;*/
+/*    top: -50px;*/
+/*    left: 0px;*/
+/*}*/
+.works-6 > div:nth-child(1) {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(47, 45, 50);
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+    z-index: 1;
+}
+
+.works-6 > div:nth-child(1) > div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.works-6 > div:nth-child(1) > div:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.works-6 > div:nth-child(2) {
+    width: 200px;
+    height: 260px;
+    background-color: #dc1c4d;
+    position: relative;
+    left: 50px;
+    top: -120px;
+}
+
+.works-6 > div:nth-child(2) > div:nth-child(1) {
+    position: relative;
+    top: 120px;
+}
+
+.no-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+}
+
+.works-5 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.no-2 > div:nth-child(2) {
+    position: relative;
+    left: 100px;
+
+}
+
+.down-1 {
+    position: relative;
+    left: 1130px;
+    top: -80px;
+}
+
+.down-2 {
+    position: relative;
+    left: 280px;
+    top: -80px;
+}
+.no-3{
+    position: relative;
+    left: 120px;
+    margin-top: -60px;
+}
+.no-4{
+    background-color: #dc1c4d;
+    height: 260px;
+    width: 800px;
+    position: relative;
+    top: -380px;
+    left: 530px;
+}
+.no-4>div:nth-child(1){
+    font-size: 40px;
+    border: #dc1c4d 2px solid;
+    border-bottom-color: black;
+    width: 200px;
+}
+.no-4>div:nth-child(2){
+    font-size: 20px;
+    width: 800px;
+    margin-top: 20px;
+}
